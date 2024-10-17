@@ -41,8 +41,8 @@ The course is meant to provide attendants
 with basic knowledge about 
 concepts, techniques, and technologies 
 used specifically in MARL. 
-For doing so, introducing concepts of RL and game theory 
-is be a necessary prerequisite. 
+To do so, introducing concepts of RL and game theory 
+is a necessary prerequisite. 
 At the end of the course, 
 attendants **are not** expected to be proficient 
 in modelling, solving, and analysing performance 
@@ -67,57 +67,68 @@ Lectures will cover the following topics:
 
 # Material
 
-Link to the course slides, *interactive version* (navigation buttons at bottom-right): https://smarianimore.github.io/phdcourse-2020/
- - direct link to the first part (autonomous systems): https://smarianimore.github.io/phdcourse-2020/index-autonomous.html
- - direct link to the second part (blockchain): https://smarianimore.github.io/phdcourse-2020/index-blockchain.html
+Course slides are available [here]().
+
+Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
  
-Link to the course slides, *pdf version*: https://smarianimore.github.io/phdcourse-2020/?print-pdf/
- - direct link to the first part (autonomous systems): https://smarianimore.github.io/phdcourse-2020/index-autonomous.html?print-pdf/
- - direct link to the second part (blockchain): https://smarianimore.github.io/phdcourse-2020/index-blockchain.html?print-pdf/
- 
-Links to code examples:
- - [JADE examples](https://github.com/smarianimore/phdcourse-2020-jade)
- - [Jason example](https://gitlab.com/pika-lab/courses/as/ay1920/jason-agents) (kindly provided by [Giovanni Ciatto](https://about.me/gciatto))
- - [TuCSoN example](https://gitlab.com/pika-lab/courses/ds/aa1920/lab-02) (kindly provided by [Giovanni Ciatto](https://about.me/gciatto))
+The content of the slides is assembled from different sources, 
+but the most relevant one is the [MARL book](https://www.marl-book.com/), 
+**digitally available free of charge** 
+ (in pdf form). 
+The book comes with slides 
+and code examples, too. 
 
-# Exam: quiz
+# Exam
 
-Students enrolled in the course can choose to take the final examination as a quiz.
-The quiz will feature **10 questions, 8 in multiple choice form, 2 in open answer** form, to be answered in **30 minutes**.
-The quiz yields "success/failure", no numeric score.
-*To succeed, students need to correctly answer 4 multiple choices and 1 open answer.*
+Attendants are expected to take a final examination to earn the course ETCS. 
+Such an exam may consist of: 
+ 1. a small software project
+ 2. a brief essay
+ 3. an oral quiz
 
-The pool of eligible questions is as follows:
+The examination is **individual by default**, 
+however, for the small project solely, 
+I can consider letting you work in a team. 
+[Send me an email](mailto:stefano.mariani@unimore.it) in case.
 
-**Multiple choice**
- - Which are the core features defining a software agent?
- - What is theoretical reasoning?
- - What is practical reasoning?
- - Which are the abstractions of the BDI model?
- - Which are the most common agent architectures?
- - Which are the properties that adaptiveness brings to a system?
- - What is a dominant strategy?
- - What are zero-sum games?
- - What is Nash equilibrium?
- - Which are the forms of interaction in a multiagent system?
- - Which are the types of interaction in a multiagent system?
- - What is the core mechanism that makes tuple spaces suitable for coordinating interactions?
- - Which are the existing technologies cleverly combined by the blockchain?
- - What does it mean to mine blocks?
- - Which properties should a digital signature guarantee?
- - Which properties should consensus guarantee?
- - According to FLP theorem, which are the two properties you have to choose amongst in case of failures?
- - According to CAP theorem, which are the two properties you have to choose amongst in case of network partitions?
- - What is eventual consistency?
- - What is a Byzantine failure?
+There are no scheduled dates to take the examination: 
+[Send me an email](mailto:stefano.mariani@unimore.it) to 
+agree on the kind of exam you wish to take (before starting to study) 
+and schedule the exam date (when finished). 
 
-**Open questions**
- - What is the intentional stance?
- - What does Newell's principle of rationality say?
- - What is adaptiveness?
- - What is a multiagent system?
- - What is game theory in a nutshell?
- - What is an interaction protocol?
- - What are the differences between ContractNet and auctions?
- - What is the problem of distributed consensus?
- - What is the typical lifecycle of a block (6 steps)
+The numbering besides exam kinds is not accidental: 
+it is a preference order. 
+It is in **your best interest** to 
+try a small software project, 
+if you can (e.g. have a programming background). 
+It is in your best interest to 
+try to apply RL or MARL in your research field, 
+if there seem to be potential benefits. 
+
+The **small software project** is meant to be 
+a low-complexity project 
+not meant to showcase optimal results, 
+but your ability to properly set up an RL or MARL experiment. 
+As a rule of thumb, 
+it is sufficient that the project "size" 
+is similar to the course code examples. 
+
+The **brief essay** is meant to 
+assess your ability to frame one or more problems 
+in your current research field 
+as RL or MARL problems, 
+conceptually. 
+This includes properly defining the RL or MARL problem 
+in all its constituent parts: 
+ - game-theoretic reference formulation, 
+ - observation space 
+ - action space 
+ - reward function 
+ - RL algorithm 
+ - learning setting 
+ - experimental methodology 
+ - evaluation metrics 
+
+The oral quiz is meant to 
+assess your understanding of the course topics. 
+More details will come. 
