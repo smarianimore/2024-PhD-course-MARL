@@ -67,7 +67,7 @@ Lectures will cover the following topics:
 
 # Material
 
-Course slides are available [here]().
+Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/personal/s_mariani_unimore_it/EaifxsY-xBVEr_C-_lx3JLkB4CyM3s2y9SF6kdTrPPP9mw?e=kLp0sc).
 
 Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
  
