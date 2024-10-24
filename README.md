@@ -70,6 +70,11 @@ Lectures will cover the following topics:
 Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/personal/s_mariani_unimore_it/EaifxsY-xBVEr_C-_lx3JLkB4CyM3s2y9SF6kdTrPPP9mw?e=kLp0sc).
 
 Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
+
+Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLu56TE55PP03qkUJXydG9RPlpyZ66Fvvl). 
+These video recordings CANNOT substitute attendance in presence, 
+but are meant to let you autonomously review the lectures at your own pace. 
+To get the expected ETCS, attendants are still required to attend the majority of the lectures in presence. 
  
 The content of the slides is assembled from different sources, 
 but the most relevant one is the [MARL book](https://www.marl-book.com/), 
