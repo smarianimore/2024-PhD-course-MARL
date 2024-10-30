@@ -17,8 +17,10 @@ and is scheduled for late October 2024:
 
 Lectures will be in two locations 
 (close to each other, both in **Reggio Emilia, San Lazzaro Campus**):
- - on both Wednesdays, 23rd and 30th:   **room F1.3** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)
+ - ~~on both Wednesdays, 23rd and 30th:   **room F1.3** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)~~
+ - on Wednesdays, 23rd:   **room F1.3** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)
  - on Friday, 25th:  **lab G1.2** of the [Tamburini Pavillion](https://maps.app.goo.gl/88nZ1KWApgovJiuY9)
+ - on Wednesday, 30th:  **room F0.6** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)
 
 You are *not required* to bring with you your own laptop 
 to do exercises or follow along, 
