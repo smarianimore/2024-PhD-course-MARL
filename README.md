@@ -77,6 +77,8 @@ Video recordings of the lectures are available [on YouTube](https://www.youtube.
 These video recordings CANNOT substitute attendance in presence, 
 but are meant to let you autonomously review the lectures at your own pace. 
 To get the expected ETCS, attendants are still required to attend the majority of the lectures in presence. 
+
+Missing video recordings due to technical issues can be found in this alternative YouTube playlist, for a very similar lecture I gave ina master degree course on Distributed Artificial Intelligence: [here](https://www.youtube.com/playlist?list=PLu56TE55PP01c1gCREaUZt-aIAJ2N9bOm)
  
 The content of the slides is assembled from different sources, 
 but the most relevant one is the [MARL book](https://www.marl-book.com/), 
